@@ -50,13 +50,11 @@ public class Function
     /// <param name="input"></param>
     /// <param name="context"></param>
     /// <returns></returns>
-    public APIGatewayProxyResponse FunctionHandler(APIGatewayProxyRequest request, ILambdaContext context)
+    public APIGatewayProxyResponse FunctionHandler(APIGatewayProxyRequest request, ILambdaContext context) => new APIGatewayProxyResponse()
     {
-        return new APIGatewayProxyResponse() {
-            StatusCode = 200,
-            Body = Environment.GetEnvironmentVariable( new Guid().ToString())
-        };
-    }
+        StatusCode = 200,
+        Body = Environment.GetEnvironmentVariable(new Guid().ToString())
+    };
 }
 public class InputModel
 {

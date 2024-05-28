@@ -40,6 +40,7 @@
 /Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Debug/net8.0/OtelDotnetLambdaFunction.AssemblyInfoInputs.cache
 /Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Debug/net8.0/OtelDotnetLambdaFunction.AssemblyInfo.cs
 /Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Debug/net8.0/OtelDotnetLambdaFunction.csproj.CoreCompileInputs.cache
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Debug/net8.0/OtelDotnetLambdaFunction.sourcelink.json
 /Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Debug/net8.0/OtelDotn.E51EAF7C.Up2Date
 /Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Debug/net8.0/OtelDotnetLambdaFunction.dll
 /Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Debug/net8.0/refint/OtelDotnetLambdaFunction.dll
