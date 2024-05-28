@@ -1,0 +1,6 @@
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/bin/Release/net6.0/publish/OtelDotnetLambdaFunction.deps.json
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/bin/Release/net6.0/publish/OtelDotnetLambdaFunction.runtimeconfig.json
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/bin/Release/net6.0/publish/OtelDotnetLambdaFunction.pdb
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/bin/Release/net6.0/publish/OtelDotnetLambdaFunction.dll

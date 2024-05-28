@@ -1,0 +1,17 @@
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/bin/Release/net6.0/linux-x64/OtelDotnetLambdaFunction.deps.json
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/bin/Release/net6.0/linux-x64/OtelDotnetLambdaFunction.runtimeconfig.json
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/bin/Release/net6.0/linux-x64/OtelDotnetLambdaFunction.dll
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/bin/Release/net6.0/linux-x64/OtelDotnetLambdaFunction.pdb
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/bin/Release/net6.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/bin/Release/net6.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Release/net6.0/linux-x64/OtelDotnetLambdaFunction.csproj.AssemblyReference.cache
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Release/net6.0/linux-x64/OtelDotnetLambdaFunction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Release/net6.0/linux-x64/OtelDotnetLambdaFunction.AssemblyInfoInputs.cache
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Release/net6.0/linux-x64/OtelDotnetLambdaFunction.AssemblyInfo.cs
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Release/net6.0/linux-x64/OtelDotnetLambdaFunction.csproj.CoreCompileInputs.cache
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Release/net6.0/linux-x64/OtelDotn.E51EAF7C.Up2Date
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Release/net6.0/linux-x64/OtelDotnetLambdaFunction.dll
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Release/net6.0/linux-x64/refint/OtelDotnetLambdaFunction.dll
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Release/net6.0/linux-x64/OtelDotnetLambdaFunction.pdb
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Release/net6.0/linux-x64/OtelDotnetLambdaFunction.genruntimeconfig.cache
+/Users/ashishsingh/Documents/CodeWorkSpace/DemoPOC/OtelDotnetLambdaFunction/src/OtelDotnetLambdaFunction/obj/Release/net6.0/linux-x64/ref/OtelDotnetLambdaFunction.dll
